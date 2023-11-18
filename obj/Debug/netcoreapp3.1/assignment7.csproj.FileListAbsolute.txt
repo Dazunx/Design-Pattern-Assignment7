@@ -1,0 +1,13 @@
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.csproj.AssemblyReference.cache
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.AssemblyInfoInputs.cache
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.AssemblyInfo.cs
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.csproj.CoreCompileInputs.cache
+C:\Users\edj10\source\repos\assignment7\bin\Debug\netcoreapp3.1\assignment7.exe
+C:\Users\edj10\source\repos\assignment7\bin\Debug\netcoreapp3.1\assignment7.deps.json
+C:\Users\edj10\source\repos\assignment7\bin\Debug\netcoreapp3.1\assignment7.runtimeconfig.json
+C:\Users\edj10\source\repos\assignment7\bin\Debug\netcoreapp3.1\assignment7.runtimeconfig.dev.json
+C:\Users\edj10\source\repos\assignment7\bin\Debug\netcoreapp3.1\assignment7.dll
+C:\Users\edj10\source\repos\assignment7\bin\Debug\netcoreapp3.1\assignment7.pdb
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.dll
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.pdb
+C:\Users\edj10\source\repos\assignment7\obj\Debug\netcoreapp3.1\assignment7.genruntimeconfig.cache
